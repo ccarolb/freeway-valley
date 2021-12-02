@@ -10,7 +10,9 @@
 <br>
 <h2 align="center">Releitura ao estilo Stardew Valley do jogo de Atari: Freeway </h2>
 <h3>Projeto desenvolvido inteiramente em javascript com o framework P5, voltado a APIs criativas. </h3>
-O desenvolvimento teve início em 18 de maio de 2021, e foi feito para o curso [Jogos clássicos parte 2: laços e listas com Javascript](https://cursos.alura.com.br/course/javascript-listas-lacos) da plataforma Alura, cuja trilha de Iniciante em Programação foi promovida gratuitamente pela ong Fly Educação.
+
+O desenvolvimento teve início em 18 de maio de 2021, e foi feito para o curso 
+<a href="https://cursos.alura.com.br/course/javascript-listas-lacos">Jogos clássicos parte 2: laços e listas com Javascript<a> da plataforma Alura, cuja trilha de Iniciante em Programação foi promovida gratuitamente pela ong Fly Educação.
 
 ## Projeto finalizado:
 https://editor.p5js.org/carolinaborgescardoso/full/YdBCy3-tY
